@@ -1,7 +1,7 @@
 import {ReactLenis} from 'lenis/react'
 
-import Hero from "./sections/Hero";
-import About from "./sections/About";
+import Hero from "./sections/hero";
+import About from "./sections/about";
 import Skills from "./sections/Skills";
 import Projects from "./sections/Projects";
 import Contact from "./sections/Contact";

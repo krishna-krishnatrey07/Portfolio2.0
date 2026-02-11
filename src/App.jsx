@@ -2,9 +2,9 @@ import {ReactLenis} from 'lenis/react'
 
 import Hero from "./sections/hero";
 import About from "./sections/about";
-import Skills from "./sections/Skills";
-import Projects from "./sections/Projects";
-import Contact from "./sections/Contact";
+import Skills from "./sections/skills";
+import Projects from "./sections/projects";
+import Contact from "./sections/contact";
 import Footer from "./sections/footer";
 import Navbar from './components/navbar';
 

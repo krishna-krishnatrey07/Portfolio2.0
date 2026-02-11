@@ -6,7 +6,7 @@ import Skills from "./sections/skills";
 import Projects from "./sections/projects";
 import Contact from "./sections/contact";
 import Footer from "./sections/footer";
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 
 export default function App() {
   return (

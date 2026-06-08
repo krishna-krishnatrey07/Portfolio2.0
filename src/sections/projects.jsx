@@ -3,16 +3,16 @@ import { Github, Eye } from "lucide-react";
 export default function Projects() {
   const projects = [
     {
-      title: "Basic Portfolio",
-      image: "",
-      github: "#",
-      live: "#",
+      title: "Aira.AI",
+      image: "/projects/aira.png",
+      github: "https://github.com/ItsTechUtsav/Aira.AI",
+      live: "https://aira-ai-xi.vercel.app/",
     },
     {
-      title: "Weather App",
-      image: "",
-      github: "#",
-      live: "#",
+      title: "Portfolio",
+      image: "/projects/port.png",
+      github: "https://github.com/krishna-krishnatrey07/Portfolio2.0",
+      live: "",
     },
     {
       title: "Todo App",
